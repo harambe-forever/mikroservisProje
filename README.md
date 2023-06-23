@@ -2,6 +2,7 @@
  etkinlik bilet satım uygulaması
 
 #ekran görüntüleri
+
  ![resim](https://github.com/harambe-forever/mikroservisProje/assets/71318378/c7de6aca-96dc-437e-a970-cd72d1c542cd)
 
 ![resim](https://github.com/harambe-forever/mikroservisProje/assets/71318378/6afbf62a-1349-417d-abad-d43bafbc3fbc)
